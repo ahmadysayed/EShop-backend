@@ -1,6 +1,6 @@
 # EShop Ecommerce Website - BackEnd
 
-![DEMO]<img href="https://raw.githubusercontent.com/ahmadysayed/Eshop/main/static/images/demo.png" alt="Demo Picture">
+![DEMO](../main/static/images/demo.png)
 
 
 # Features
